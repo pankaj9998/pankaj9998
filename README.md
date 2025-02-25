@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pankaj Telange</h1>
 <h3 align="center">A passionate Java developer from India</h3>
+<img align="right" alt="Java Logo" width="400" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg">
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankaj9998&label=Profile%20views&color=0e75b6&style=flat" alt="pankaj9998" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankaj9998" alt="pankaj9998" /></a> </p>
 
 - 🌱 I’m currently learning **SpringBoot,ReactJs ,Microservice**
 
