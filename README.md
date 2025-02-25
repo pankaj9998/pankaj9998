@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pankaj Telange</h1>
 <h3 align="center">A passionate Java developer from India</h3>
-<img align="right" alt="Java Logo" width="400" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg">
+<img align="right" alt="Java Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 
 
 
